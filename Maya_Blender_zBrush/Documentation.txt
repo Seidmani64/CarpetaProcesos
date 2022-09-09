@@ -1,0 +1,9 @@
+El archivo test.fbx fue un ejemplo de el proceso de rigging a través de Blender,
+donde utilizamos un modelo basico de un hombre y finalmente lo exportamos como fbx para utilizar en Unity.
+
+El archivo UVTest.blend fue un ejemplo del UV painting donde elaboramos un UV map del mismo hombre,
+utilizando Blender. Yo utilizé la técnica de UV painting para darle ropa al hombre.
+
+El archivo cube.txt muestra una versión básica de elaborar objetos en 3D de forma manual,
+utilizando vertices y caras.
+

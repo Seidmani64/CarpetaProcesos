@@ -1,0 +1,10 @@
+El archivo IanvideoPersonajes.mp4 muestra un ejemplo de animación interactiva entre dos personajes.
+
+El folder IanMiniMundo incluye el unitypackage y ejectuable del proyecto de MiniMundo, 
+este muestra todos los aspectos de animación pedidos, incluyendo:
+los principios de animación a través de los personajes y las flores,
+líneas de tiempo utilizadas para animar los girasoles,
+keyframes y modificadores para animar a los personajes y al pájaro,
+experiencia de sonido a través de SFX de pisar al pasto y a las rocas y música cambiante por sección.
+
+Lo previo también se puede ver en el video IanVideoMiniMundo.mp4.

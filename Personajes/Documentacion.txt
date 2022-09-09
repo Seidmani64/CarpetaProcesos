@@ -1,0 +1,5 @@
+El archivo IanKeyFramesAnimation.mp4 muestra un ejemplo de una animación de un personaje
+utilizando el esqueleto de la figura de Blender "Rain" para replicar una escena de Big Bang Theory.
+
+El archivo rigging_practice.blend muestra un ejemplo de el proceso de rigging y elaboración de un esqueleto,
+utilizando un modelo en 3D y las herramientas de Blender para prepararlo y exportarlo a otros formatos.
