@@ -1,0 +1,12 @@
+C:\Users\Ian\Desktop\TEC\Videojuego\Plugins\PluginTest\bin\Debug\net6.0\PluginTest.deps.json
+C:\Users\Ian\Desktop\TEC\Videojuego\Plugins\PluginTest\bin\Debug\net6.0\PluginTest.dll
+C:\Users\Ian\Desktop\TEC\Videojuego\Plugins\PluginTest\bin\Debug\net6.0\PluginTest.pdb
+C:\Users\Ian\Desktop\TEC\Videojuego\Plugins\PluginTest\obj\Debug\net6.0\PluginTest.csproj.AssemblyReference.cache
+C:\Users\Ian\Desktop\TEC\Videojuego\Plugins\PluginTest\obj\Debug\net6.0\PluginTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ian\Desktop\TEC\Videojuego\Plugins\PluginTest\obj\Debug\net6.0\PluginTest.AssemblyInfoInputs.cache
+C:\Users\Ian\Desktop\TEC\Videojuego\Plugins\PluginTest\obj\Debug\net6.0\PluginTest.AssemblyInfo.cs
+C:\Users\Ian\Desktop\TEC\Videojuego\Plugins\PluginTest\obj\Debug\net6.0\PluginTest.csproj.CoreCompileInputs.cache
+C:\Users\Ian\Desktop\TEC\Videojuego\Plugins\PluginTest\obj\Debug\net6.0\PluginTest.dll
+C:\Users\Ian\Desktop\TEC\Videojuego\Plugins\PluginTest\obj\Debug\net6.0\refint\PluginTest.dll
+C:\Users\Ian\Desktop\TEC\Videojuego\Plugins\PluginTest\obj\Debug\net6.0\PluginTest.pdb
+C:\Users\Ian\Desktop\TEC\Videojuego\Plugins\PluginTest\obj\Debug\net6.0\ref\PluginTest.dll
